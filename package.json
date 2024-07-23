@@ -1,0 +1,10 @@
+{
+  "name": "catan-companion-app",
+  "version": "1.0.0",
+  "description": "A companion app for Catan board game",
+  "scripts": {
+    "dev:frontend": "cd frontend && pnpm dev",
+    "dev:backend": "cd backend && pnpm dev",
+    "dev": "pnpm run --parallel dev:frontend dev:backend"
+  }
+}
