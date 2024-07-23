@@ -42,7 +42,7 @@ catan-companion-app/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/catan-companion-app.git
+   git clone https://github.com/AnthonyW90/catan-companion-app.git
    cd catan-companion-app
    ```
 
